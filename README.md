@@ -12,18 +12,19 @@ Lantern Delve turns homework time into fuel for an adventure.
 
 ## Progress
 
-🚧 **Work in progress, about 82% done:** the whole story is playable and play-testing has started; more play-testing, fixes and balance are left.
+🚧 **Work in progress, about 84% done:** the whole story is playable and play-testing is under way; more play-testing, fixes and balance are left.
 
 - ✅ Focus sessions with Wick, the study buddy, plus a distraction blocker and Claude focus checks (Windows app)
-- ✅ Homework split into tiny steps, with file attachments
+- ✅ Homework split into tiny steps, with file attachments and a Completed folder
+- ✅ A start menu when the game opens
 - ✅ Light, daily quests, streaks and treasure chests
 - ✅ The whole story: the Prologue, Chapters 1 to 4 and the ending
 - ✅ Big open fields, side quests, carnival minigames and Lantern upgrades
-- ✅ Battles with timed attacks, partners and badges
+- ✅ Battles with timed attacks, partners and badges (fire enemies now spit embers, flare up and erupt lava geysers)
 - ✅ An original soundtrack
 - ✅ Browser and Windows versions that keep themselves up to date
 - ✅ More story scenes along the way (and Count Dusk scheming between chapters)
-- ✅ First play-test fixes: clearer exits and doorways, hazards in every gap, shadows that show depth
+- ✅ Play-test fixes: clearer exits and doorways, hazards in every gap, shadows that show depth, walls that stay put, and the Prologue ending at Mothwick's lookout
 - ⬜ Play-testing the whole story (Chapters 3 and 4 and the ending haven't been played through yet)
 - ⬜ Fixing what play-testing turns up
 - ⬜ A balance pass: difficulty, prices and Light costs
@@ -32,7 +33,7 @@ _Last updated 2026-11-04._
 
 ## Download
 
-Latest version: **2026.11.04.2**
+Latest version: **2026.11.04.3**
 
 - [Play in your browser](https://github.com/GabeisRandom/lantern-delve/raw/main/Lantern%20Delve%20-%20play%20in%20your%20browser.html): one file, nothing to install. Save it, then open it in Chrome or Edge.
   (A web page can't see your other windows, so focus sessions there run on the honor system, with check-ins.)

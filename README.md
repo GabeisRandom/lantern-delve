@@ -10,6 +10,24 @@ Lantern Delve turns homework time into fuel for an adventure.
   towns, fight with timed attacks, find secrets, team up with partners and play carnival minigames on your breaks.
 - **Come back tomorrow.** Daily quests and a day streak reward showing up.
 
+## Progress
+
+🚧 **Work in progress, about 80% done:** the whole story is playable; play-testing, bug fixes and balance are left.
+
+- ✅ Focus sessions with Wick, the study buddy, plus a distraction blocker and Claude focus checks (Windows app)
+- ✅ Homework split into tiny steps, with file attachments
+- ✅ Light, daily quests, streaks and treasure chests
+- ✅ The whole story: the Prologue, Chapters 1 to 4 and the ending
+- ✅ Big open fields, side quests, carnival minigames and Lantern upgrades
+- ✅ Battles with timed attacks, partners and badges
+- ✅ An original soundtrack
+- ✅ Browser and Windows versions that keep themselves up to date
+- ⬜ Play-testing the whole story (Chapters 3 and 4 and the ending haven't been played through yet)
+- ⬜ Fixing what play-testing turns up
+- ⬜ A balance pass: difficulty, prices and Light costs
+
+_Last updated 2026-11-04._
+
 ## Download
 
 Latest version: **2026.11.04.1**

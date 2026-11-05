@@ -26,6 +26,7 @@ Lantern Delve turns homework time into fuel for an adventure.
 - ✅ Browser and Windows versions that keep themselves up to date
 - ✅ More story scenes along the way (and Count Dusk scheming between chapters)
 - ✅ Play-test fixes: clearer exits and doorways, hazards in every gap, shadows that show depth, walls that stay put, and the Prologue ending at Mothwick's lookout
+- ✅ Smoother doors: walk in with your partner, step out the other side (no more popping or landing on rooftops)
 - ⬜ Play-testing the whole story (Chapters 3 and 4, the ending and the Bonus Chapter haven't been played through yet)
 - ⬜ Fixing what play-testing turns up
 - ⬜ A balance pass: difficulty, prices and Light costs
@@ -34,7 +35,7 @@ _Last updated 2026-11-04._
 
 ## Download
 
-Latest version: **2026.11.04.4**
+Latest version: **2026.11.04.5**
 
 - [Play in your browser](https://github.com/GabeisRandom/lantern-delve/raw/main/Lantern%20Delve%20-%20play%20in%20your%20browser.html): one file, nothing to install. Save it, then open it in Chrome or Edge.
   (A web page can't see your other windows, so focus sessions there run on the honor system, with check-ins.)

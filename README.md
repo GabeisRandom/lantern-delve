@@ -29,6 +29,7 @@ Lantern Delve turns homework time into fuel for an adventure.
 - ✅ Play-test fixes: clearer exits and doorways, hazards in every gap, shadows that show depth, walls that stay put, and the Prologue ending at Mothwick's lookout
 - ✅ Smoother doors: walk in with your partner, step out the other side (no more popping or landing on rooftops)
 - ✅ A detailed, zoomable map of every place (TAB), with houses, trees, water, doors, chests, folks and enemies on it
+- ✅ A new minimap in the corner: a close-up picture map that follows you, with Wick's face pointing the way, a gold pin on where to go next, and a side view in the long caves (click it for the big map)
 - ⬜ Play-testing the whole story (Chapters 3 and 4, the ending and the Bonus Chapter haven't been played through yet)
 - ⬜ Fixing what play-testing turns up
 - ⬜ A balance pass: difficulty, prices and Light costs
@@ -37,7 +38,7 @@ _Last updated 2026-11-05._
 
 ## Download
 
-Latest version: **2026.11.05.1**
+Latest version: **2026.11.05.2**
 
 - [Play in your browser](https://github.com/GabeisRandom/lantern-delve/raw/main/Lantern%20Delve%20-%20play%20in%20your%20browser.html): one file, nothing to install. Save it, then open it in Chrome or Edge.
   (A web page can't see your other windows, so focus sessions there run on the honor system, with check-ins.)

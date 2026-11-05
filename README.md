@@ -16,6 +16,7 @@ Lantern Delve turns homework time into fuel for an adventure.
 
 - ✅ Focus sessions with Wick, the study buddy, plus a distraction blocker and Claude focus checks (Windows app)
 - ✅ Homework split into tiny steps, with file attachments and a Completed folder
+- ✅ Real due dates (or none): assignments are grouped by when they're due, overdue first, with a Coming up list on the Today tab
 - ✅ A start menu when the game opens
 - ✅ Light, daily quests, streaks and treasure chests
 - ✅ The whole story: the Prologue, Chapters 1 to 4 and the ending
@@ -32,11 +33,11 @@ Lantern Delve turns homework time into fuel for an adventure.
 - ⬜ Fixing what play-testing turns up
 - ⬜ A balance pass: difficulty, prices and Light costs
 
-_Last updated 2026-11-04._
+_Last updated 2026-11-05._
 
 ## Download
 
-Latest version: **2026.11.04.6**
+Latest version: **2026.11.05.1**
 
 - [Play in your browser](https://github.com/GabeisRandom/lantern-delve/raw/main/Lantern%20Delve%20-%20play%20in%20your%20browser.html): one file, nothing to install. Save it, then open it in Chrome or Edge.
   (A web page can't see your other windows, so focus sessions there run on the honor system, with check-ins.)

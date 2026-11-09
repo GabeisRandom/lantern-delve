@@ -24,7 +24,7 @@ Lantern Delve turns homework time into fuel for an adventure.
 - ✅ Big open fields, side quests, carnival minigames and Lantern upgrades
 - ✅ Battles with timed attacks, partners and badges (fire enemies now spit embers, flare up and erupt lava geysers)
 - ✅ An original soundtrack
-- ✅ Browser and Windows versions that keep themselves up to date
+- ✅ Browser, Windows and Mac versions that keep themselves up to date
 - ✅ More story scenes along the way (and Count Dusk scheming between chapters)
 - ✅ Play-test fixes: clearer exits and doorways, hazards in every gap, shadows that show depth, walls that stay put, and the Prologue ending at Mothwick's lookout
 - ✅ Smoother doors: walk in with your partner, step out the other side (no more popping or landing on rooftops)
@@ -39,11 +39,14 @@ _Last updated 2026-11-08._
 
 ## Download
 
-Latest version: **2026.11.08.1**
+Latest version: **2026.11.08.2**
 
 - [Play in your browser](https://github.com/GabeisRandom/lantern-delve/raw/main/Lantern%20Delve%20-%20play%20in%20your%20browser.html): one file, nothing to install. Save it, then open it in Chrome or Edge.
   (A web page can't see your other windows, so focus sessions there run on the honor system, with check-ins.)
 - [Windows app](https://github.com/GabeisRandom/lantern-delve/raw/main/Lantern%20Delve%20-%20Windows%20app.zip): the full thing, distraction blocker included. Unzip it and double-click
   "Start Lantern Delve" (needs Python 3).
+- [Mac app](https://github.com/GabeisRandom/lantern-delve/raw/main/Lantern%20Delve%20-%20Mac.zip): unzip it and drag Lantern Delve into Applications. It opens in a window of its own
+  (best with Chrome or Edge installed). The first time, macOS asks you to allow it: see the READ ME inside.
+  (Like the browser copy, focus sessions there run on the honor system.)
 
-Both keep themselves up to date, and only install versions signed with the maker's key.
+All of them keep themselves up to date, and only install versions signed with the maker's key.

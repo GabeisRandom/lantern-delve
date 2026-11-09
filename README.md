@@ -12,7 +12,7 @@ Lantern Delve turns homework time into fuel for an adventure.
 
 ## Progress
 
-🚧 **Work in progress, about 86% done:** the whole story plus a Bonus Chapter is playable and play-testing is under way; more play-testing, fixes and balance are left.
+🚧 **Work in progress, about 97% done:** the whole story plus a Bonus Chapter is playable from start to finish: it's been played all the way through and balanced. What's left is fixing whatever comes up as people play it.
 
 - ✅ Focus sessions with Wick, the study buddy, plus a distraction blocker and Claude focus checks (Windows app)
 - ✅ Homework split into tiny steps, with file attachments and a Completed folder
@@ -31,15 +31,15 @@ Lantern Delve turns homework time into fuel for an adventure.
 - ✅ A detailed, zoomable map of every place (TAB), with houses, trees, water, doors, chests, folks and enemies on it
 - ✅ A new minimap in the corner: a close-up picture map that follows you, with Wick's face pointing the way, a gold pin on where to go next, and a side view in the long caves (click it for the big map)
 - ✅ Maps that fill in as you explore: new places start as blank paper, and the TAB map shows how much of each place you've explored
-- ⬜ Play-testing the whole story (Chapters 3 and 4, the ending and the Bonus Chapter haven't been played through yet)
-- ⬜ Fixing what play-testing turns up
-- ⬜ A balance pass: difficulty, prices and Light costs
+- ✅ Play-tested start to finish: the whole story, from the Prologue to the end of the Bonus Chapter, played through with no blockers (plus the tricky jumps, rafts and partner puzzles walked for real), and what it turned up fixed
+- ✅ A balance pass: every boss can be beaten without perfect timing, the Lumen Shards make Wick stronger (+1 ATK with the third and the fifth), and prices and Light costs were checked
+- ⬜ Fixing whatever comes up as people play it
 
-_Last updated 2026-11-05._
+_Last updated 2026-11-08._
 
 ## Download
 
-Latest version: **2026.11.05.3**
+Latest version: **2026.11.08.1**
 
 - [Play in your browser](https://github.com/GabeisRandom/lantern-delve/raw/main/Lantern%20Delve%20-%20play%20in%20your%20browser.html): one file, nothing to install. Save it, then open it in Chrome or Edge.
   (A web page can't see your other windows, so focus sessions there run on the honor system, with check-ins.)

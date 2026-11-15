@@ -36,13 +36,15 @@ Lantern Delve turns homework time into fuel for an adventure.
 - ✅ Five new side areas, one in each part of Lumenfold, each with its own way to play, new characters and a side quest about a real study habit: the Study Bridges (your partner holds the bookshelf bridges down), the Pomodoro Mill (gears on FOCUS, hammocks on BREAK), the Crystal Choir (play melodies back on singing crystals), the Chunky Quarry (split giant boulders into climbable chunks) and the Drowsy Downs (nap to see the dream side). Five new badges, and the new friends move into Lumen Town afterwards
 - ✅ A Study tab: Claude turns an assignment's files into practice questions, you battle them Paper Mario-style, and cards you miss come back on the Today tab when they're due. Teach Wick: explain an idea in your own words, and Wick says what clicked and asks about what you left out. Unstuck (also a button in the study buddy window): the smallest hint that gets you moving on a problem, more only if you ask, never the answer, plus an answer check. Studying there counts as focus time and earns Light (up to 30 a day)
 - ✅ The Study tab works without Claude too (offline, in the browser copy, or when Claude doesn't answer): it reads the assignment's PDFs, Word files and slides itself and makes definition, multiple-choice and fill-in-the-blank questions; Teach Wick checks explanations against your cards; Unstuck gives hints that fit the kind of problem (code, math, writing, reading) and shows cards that might help. Cards can be fixed with ✏️, and it all fits on a phone screen
+- ✅ Habits: things to keep doing on set days, like an hour of language learning, chess practice or reading an ebook. There are no steps: start one from the Today tab and Wick keeps you on it until you hit your time for the day. Claude's focus checks judge your windows against the habit (chess sites count for chess, Spanish shows for Spanish), sites a habit names stay unblocked during it, and streaks only count the days you picked
+- ✅ The study buddy window no longer turns grey after a long time: Edge's sleeping tabs and efficiency mode are off for Lantern Delve's windows, and a buddy that stops responding, or that the PC just woke up with, gets swapped for a fresh one
 - ⬜ Fixing whatever comes up as people play it
 
-_Last updated 2026-11-09._
+_Last updated 2026-11-15._
 
 ## Download
 
-Latest version: **2026.11.09.5**
+Latest version: **2026.11.15.1**
 
 - [Play in your browser](https://github.com/GabeisRandom/lantern-delve/raw/main/Lantern%20Delve%20-%20play%20in%20your%20browser.html): one file, nothing to install. Save it, then open it in Chrome or Edge.
   (A web page can't see your other windows, so focus sessions there run on the honor system, with check-ins.)

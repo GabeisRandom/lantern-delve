@@ -38,14 +38,14 @@ Lantern Delve turns homework time into fuel for an adventure.
 - ✅ The Study tab works without Claude too (offline, in the browser copy, or when Claude doesn't answer): it reads the assignment's PDFs, Word files and slides itself and makes definition, multiple-choice and fill-in-the-blank questions; Teach Wick checks explanations against your cards; Unstuck gives hints that fit the kind of problem (code, math, writing, reading) and shows cards that might help. Cards can be fixed with ✏️, and it all fits on a phone screen
 - ✅ Habits: things to keep doing on set days, like an hour of language learning, chess practice or reading an ebook. There are no steps: start one from the Today tab and Wick keeps you on it until you hit your time for the day. Claude's focus checks judge your windows against the habit (chess sites count for chess, Spanish shows for Spanish), sites a habit names stay unblocked during it, and streaks only count the days you picked. Habits like the gym just get checked off (✓, no session needed), any habit can be checked off for the day without a session, and assignments can be marked finished in one click
 - ✅ The study buddy window no longer turns grey after a long time: Edge's sleeping tabs and efficiency mode are off for Lantern Delve's windows, and a buddy that stops responding, or that the PC just woke up with, gets swapped for a fresh one
-- ✅ A phone version (gabeisrandom.github.io/lantern-delve, can be added to the home screen) that stays in sync with the laptop: scan a QR code from Settings → 📱 Phone & sync to link them. Assignments, habits, Light and streaks merge between devices (each device's progress adds up, even when one was offline), everything is encrypted on the device before it goes into a secret gist on your own GitHub, and a focus session started on one device shows on the other with ▶ Continue here to carry it on there. On a phone, Wick asks whether the time the screen was off counts
+- ✅ A phone version (gabeisrandom.github.io/lantern-delve, can be added to the home screen) that stays in sync with the laptop: scan a QR code from Settings → 📱 Phone & sync to link them. Assignments, habits, Light and streaks merge between devices (each device's progress adds up, even when one was offline), everything is encrypted on the device before it goes into a secret gist on your own GitHub, and a focus session started on one device shows on the other with ▶ Continue here to carry it on there. On a phone, Wick asks whether the time the screen was off counts. The home-screen app links itself with 📷 Scan the code (a QR reader built into Lantern Delve) or a one-tap paste, phones set to desktop websites are recognized as phones, and every device can be renamed
 - ⬜ Fixing whatever comes up as people play it
 
 _Last updated 2026-11-20._
 
 ## Download
 
-Latest version: **2026.11.20.2**
+Latest version: **2026.11.20.3**
 
 - [Play in your browser](https://github.com/GabeisRandom/lantern-delve/raw/main/Lantern%20Delve%20-%20play%20in%20your%20browser.html): one file, nothing to install. Save it, then open it in Chrome or Edge.
   (A web page can't see your other windows, so focus sessions there run on the honor system, with check-ins.)

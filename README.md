@@ -45,7 +45,7 @@ _Last updated 2026-11-20._
 
 ## Download
 
-Latest version: **2026.11.20.1**
+Latest version: **2026.11.20.2**
 
 - [Play in your browser](https://github.com/GabeisRandom/lantern-delve/raw/main/Lantern%20Delve%20-%20play%20in%20your%20browser.html): one file, nothing to install. Save it, then open it in Chrome or Edge.
   (A web page can't see your other windows, so focus sessions there run on the honor system, with check-ins.)
